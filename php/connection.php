@@ -10,7 +10,7 @@ if ($username != "root" || $password != "") {
     echo "Access allowed<br>";
 
     $host = 'localhost';
-    $db = '5ina';
+    $db = 'garaa';
 
     try {
         $conn = new PDO("mysql:host=$host;dbname=$db", $username, $password, ); //crea la connessione
