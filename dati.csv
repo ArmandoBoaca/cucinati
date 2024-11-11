@@ -1,0 +1,16 @@
+ID,Nome,Tipo,Stato,CostoAcquisto,CostoManutenzione,DataAcquisto,DataRevisione,Deposito,LuogoDeposito,Custode
+1,Trivella,Macchinario,In uso,5000,300,2022-03-15,2023-03-15,Magazzino A,Area Esterno,Marco Rossi
+2,Escavatore,Macchinario,In uso,25000,500,2021-06-01,2023-06-01,Magazzino B,Area Nord,Giovanni Bianchi
+3,Martello pneumatico,Attrezzo,In uso,1500,100,2023-01-10,2023-07-10,Magazzino A,Area Esterno,Francesca Verdi
+4,Saldatrice,Attrezzo,In uso,3000,200,2020-11-25,2023-05-25,Magazzino C,Area Sud,Alessandro Neri
+5,Carrello elevatore,Macchinario,In manutenzione,12000,350,2022-07-01,2023-07-01,Magazzino A,Area Centrale,Luigi Ricci
+6,Pompa per cemento,Macchinario,In uso,8000,150,2021-09-15,2023-09-15,Magazzino B,Area Esterno,Marco Rossi
+7,Generatore elettrico,Macchinario,In uso,3500,100,2020-12-10,2023-12-10,Magazzino D,Area Ovest,Giovanni Bianchi
+8,Trapano a percussione,Attrezzo,In uso,800,50,2022-03-10,2023-03-10,Magazzino A,Area Interna,Francesca Verdi
+9,Motocompressore,Macchinario,In uso,6000,200,2023-05-05,2024-05-05,Magazzino C,Area Esterno,Alessandro Neri
+10,Carroponte,Macchinario,In manutenzione,20000,400,2021-04-20,2023-04-20,Magazzino B,Area Centrale,Luigi Ricci
+11,Idropulitrice,Attrezzo,In uso,1000,50,2023-08-15,2024-08-15,Magazzino A,Area Esterno,Marco Rossi
+12,Compressore ad aria,Macchinario,In uso,4000,150,2022-02-25,2023-02-25,Magazzino D,Area Sud,Giovanni Bianchi
+13,Cric idraulico,Attrezzo,In uso,300,20,2021-11-10,2023-11-10,Magazzino C,Area Interna,Francesca Verdi
+14,Gru a torre,Macchinario,In uso,15000,600,2020-10-01,2023-10-01,Magazzino A,Area Esterno,Luigi Ricci
+15,Segatrice a nastro,Attrezzo,In uso,2500,100,2021-01-18,2023-01-18,Magazzino B,Area Interna,Alessandro Neri
