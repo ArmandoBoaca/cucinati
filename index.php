@@ -30,7 +30,7 @@
     <title>Login</title>
 </head>
 <body>
-    <form action="login.php" method="POST">
+    <form action="php/login.php" method="POST">
         <div class="login-field">
             <label for="username">Username</label>
             <input id="username" type="text" name="username">
